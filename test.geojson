@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.5022, 38.7334]  
+        },
+        "properties": {
+          "name": "Kayseri Merkez",
+          "description": "Kayseri ilinin merkezi noktasıdır."
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.5012, 38.7222] 
+        },
+        "properties": {
+          "name": "Kayseri Kalesi",
+          "description": "Kayseri'nin tarihi kalesi."
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.4833, 38.7211]   
+        },
+        "properties": {
+          "name": "Kayseri Ulu Camii",
+          "description": "Kayseri'deki önemli tarihi camilerden biri."
+        }
+      }
+    ]
+  }
+  
